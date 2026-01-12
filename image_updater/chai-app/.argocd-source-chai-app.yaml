@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - trainwithshubham/chai-devops:v1.0.3
+  - naman1923/argo-chai:v1.0.0

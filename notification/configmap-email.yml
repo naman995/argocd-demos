@@ -6,7 +6,7 @@ metadata:
 data:
   # Context section: defines variables available in notification templates
   context: |
-    argocdUrl: "https://kubernetes.default.svc:8000"  # Replace with your ArgoCD server URL
+    argocdUrl: "https://localhost:8000/"  # Replace with your ArgoCD server URL
 
   # Email service configuration: SMTP settings for sending emails
   service.email: |
